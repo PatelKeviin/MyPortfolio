@@ -1,0 +1,134 @@
+{
+  "main": {
+    "name": "Kevin Patel",
+    "occupation": "Frontend Developer && Data Science Enthusiast",
+    "description": "A recent Computer Science graduate from Deakin University with High Distinction average (among top 15%)",
+    "image": "me.jpeg",
+    "bio": "“There’s always something more to learn, some more problems to solve and some more to build.“\\n\\nI am a data-driven and an insightful person who is passionate about technologies revolving around Web and Data. From studying bachelors in Computer Science to pursuing internships, I’ve grown my skills in software development, building websites, data preparation and analysis. I'm a self-taught Frontend Developer and Python programmer.\\n\\n Discussing opportunities over a cup of coffee is never a bad idea. Feel free to reach out if I can be of any help or if you feel like we could collaborate on something innovative.",
+    "contactmessage": "Get in touch with me to have a chat.",
+    "email": "kevinmanojpatel@gmail.com",
+    "phone": "04 5245 1069",
+    "address": {
+      "street": "54 Ludhiana Glade",
+      "city": "Sydney",
+      "state": "Schofields",
+      "zip": "New South Wales 2762"
+    },
+    "website": "",
+    "resumedownload": "https://github.com/PatelKeviin/Resume/raw/master/Kevin_Patel_Resume.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/kevin.patel.94009/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kevin-patel-3ab844192/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/keviin_patel/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/PatelKeviin",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My tech-stack",
+    "education": [
+      {
+        "school": "Deakin University",
+        "degree": "Bachelor of Computer Science",
+        "graduated": "July 2020",
+        "description": "Graduated with Distinction (Highest)"
+      }
+    ],
+    "work": [
+      {
+        "company": "DataDisca",
+        "title": "Data Science Intern",
+        "years": "May 2020 - July 2020",
+        "description": "Assisting in end-to-end data science workflows."
+      },
+      {
+        "company": "Deakin Talent FreelancingHUB",
+        "title": "Software Developer Intern",
+        "years": "March 2020 - May 2020",
+        "description": "Building an Android mobile app for a not-for-profit victorian organisation."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJS | JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "HTML | CSS",
+        "level": "100%"
+      },
+      {
+        "name": "Redux | Bootstrap | Material-UI",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "100%"
+      },
+      {
+        "name": "Numpy | Pandas | Scikit-learn",
+        "level": "80%"
+      },
+      {
+        "name": "MS SQL | MongoDB",
+        "level": "70%"
+      },
+      {
+        "name": "Git | GitHub",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon clone built with React.js frontend framework and Firebase backend services",
+        "image": "amazon-clone.jpg",
+        "url": "https://clone-2f0ee.web.app/"
+      },
+      {
+        "title": "Weather Application",
+        "category": "Web application for visualising weather patterns, built with python Dash frontend framework",
+        "image": "weather-app.jpg",
+        "url": "https://www.youtube.com/watch?v=79HcDATtrxk&t=9s"
+      },
+      {
+        "title": "Classical Crossword Game",
+        "category": "Crossword game built with C# and .NET framework",
+        "image": "crozzle.jpg",
+        "url": "https://github.com/PatelKeviin/Crozzle-App"
+      },
+      {
+        "title": "Email Spam Filter",
+        "category": "Email Spam classifier built using NLP techniques and SVM classifier",
+        "image": "spam-filter.jpg",
+        "url": "https://github.com/PatelKeviin/Email-Spam-Classification"
+      },
+      {
+        "title": "Melbourne Housing Market Analysis",
+        "category": "Finding suitable living places based on budget and neighbourhood amenities",
+        "image": "housing-market.jpg",
+        "url": "https://www.kaggle.com/patelkeviin/melbourne-housing-sales-suburban-venues-analysis"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": []
+  }
+}
